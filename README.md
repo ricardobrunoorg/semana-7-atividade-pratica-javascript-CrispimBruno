@@ -6,11 +6,11 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 ## Informações Gerais
 
 - Nome: Crispim Bruno Da Silva Junior
-- Matricula: 
+- Matricula: 923833
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 

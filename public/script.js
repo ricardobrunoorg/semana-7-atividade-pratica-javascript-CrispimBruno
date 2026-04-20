@@ -5,9 +5,9 @@ while (isNaN(Number(rendaInput)) || rendaInput === "") {
 }
 let renda = Number(rendaInput);
 
-let qtdDespesasInput = prompt("Quantas despesas você quer informar? (Mínimo 1, Máximo 5)");
+let qtdDespesasInput = prompt("Quantas despesas você quer informar?");
 while (isNaN(Number(qtdDespesasInput)) || qtdDespesasInput === "") {
-    qtdDespesasInput = prompt("Valor inválido! Digite a quantidade de despesas (1 a 5):");
+    qtdDespesasInput = prompt("Valor inválido! Digite a quantidade de despesas:");
 }
 
 let qtdDespesas = Number(qtdDespesasInput);
