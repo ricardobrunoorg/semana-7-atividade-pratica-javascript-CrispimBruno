@@ -5,8 +5,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Crispim Bruno Da Silva Junior
+- Matricula: 
 
 ## Print do console do navegador
 
